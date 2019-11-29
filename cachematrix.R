@@ -2,7 +2,7 @@
 ## functions do
 
 
-## This function creates a "matrix" object that can cache its inverse.
+## This function  should creates a "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
   n <- NULL
